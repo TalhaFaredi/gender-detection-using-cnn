@@ -1,5 +1,3 @@
-
-
 # Gender Prediction Model
 
 This repository contains a Convolutional Neural Network (CNN) implemented using TensorFlow/Keras to classify gender based on images. The model uses three convolutional layers followed by max pooling and dense layers. It’s trained on a binary dataset for classification and can predict gender from images.
